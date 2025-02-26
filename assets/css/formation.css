@@ -23,6 +23,6 @@
     display: inline-block;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('assets/img/date.svg');
+    background-image: url('/assets/img/date.svg');
     margin-right: .5rem;
 }
